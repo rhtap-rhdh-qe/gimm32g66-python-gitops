@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gimm32g66-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gimm32g66-python
